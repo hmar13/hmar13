@@ -1,5 +1,6 @@
-
-
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/69591006/113483624-b65c9400-94a4-11eb-9cd2-c0d8c033093b.png">
+</p>
 Hi 👋, I'm Haydn, a Full Stack Developer based in Warsaw, Poland. I enjoy developing software and applications that are creative in the way they provide solutions to their users.
 
 What I'm up to:
