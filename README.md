@@ -5,8 +5,7 @@
 Hi, I'm Haydn, a Full Stack Developer based in Warsaw, Poland. I enjoy engineering software and applications that are creative in how they provide solutions to their users.
 
 What I'm up to:
-* Working on an application which can potentially bring![Uploading Banner.png…]()
- greater citizen participation into local communities.
+* Working on an application which can potentially bring greater citizen participation into local communities.
 * Studying for a Masters of IT (Software Development).
 
 Other interests:
