@@ -1,6 +1,5 @@
-<p align="center">
- <img src="https://user-images.githubusercontent.com/69591006/113481514-46491080-949a-11eb-8840-85fd5d877912.png">
-</p>
+![Banner](https://user-images.githubusercontent.com/69591006/113481573-988a3180-949a-11eb-919e-a5b89886bbd7.png)
+
 Hi 👋, I'm Haydn, a Full Stack Developer based in Warsaw, Poland. I enjoy developing software and applications that are creative in the way they provide solutions to their users.
 
 What I'm up to:
