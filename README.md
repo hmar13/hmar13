@@ -1,7 +1,10 @@
+![Banner](https://user-images.githubusercontent.com/69591006/113481514-46491080-949a-11eb-8840-85fd5d877912.png)
+
 Hi 👋, I'm Haydn, a Full Stack Developer based in Warsaw, Poland. I enjoy developing software and applications that are creative in the way they provide solutions to their users.
 
 What I'm up to:
-* :iphone: Working on an application which can potentially bring greater citizen participation into local communities.
+* :iphone: Working on an application which can potentially bring![Uploading Banner.png…]()
+ greater citizen participation into local communities.
 * :eyeglasses: Studying for a Masters of IT (Software Development).
 
 Other interests:
