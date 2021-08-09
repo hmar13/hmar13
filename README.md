@@ -5,7 +5,7 @@
 Hi, I'm Haydn, a Full Stack Developer based in Warsaw, Poland. I enjoy engineering software and applications that are creative in how they provide solutions to their users.
 
 What I'm up to:
-* Studying for a Masters of IT (Data Science).
+* Studying for a Masters of IT.
 * Working with a great team at Teamtailor
 
 Other interests:
