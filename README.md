@@ -13,4 +13,4 @@ Other interests:
 * :books: Novels
 * :golf: Playing 18 holes
 
-You can find me on LinkedIn [HERE](https://www.linkedin.com/in/haydnmartin/).
+You can find me on LinkedIn [HERE](https://www.linkedin.com/in/haydnmartin/)
